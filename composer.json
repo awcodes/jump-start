@@ -2,7 +2,7 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "awcodes/jump-start",
     "type": "project",
-    "description": "A custom starter kit for Laravel development, designed to streamline the setup process and provide a solid foundation for building robust applications.",
+    "description": "A custom starter kit for Laravel development, with defaults I like.",
     "keywords": [
         "laravel",
         "framework",
