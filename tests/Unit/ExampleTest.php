@@ -2,6 +2,6 @@
 
 declare(strict_types=1);
 
-test('that true is true', function () {
-    expect(true)->toBeTrue();
+test('that a generated name is not empty', function (): void {
+    expect(fake()->name())->not->toBeEmpty();
 });
